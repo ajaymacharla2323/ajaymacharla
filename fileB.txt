@@ -1,1 +1,2 @@
 created the fileB
+modified some changes
