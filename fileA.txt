@@ -1,2 +1,2 @@
 File A is created
-hello world
+hello world is simple
